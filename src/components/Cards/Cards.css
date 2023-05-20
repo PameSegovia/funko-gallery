@@ -1,0 +1,34 @@
+.target {
+  display: flex;
+  margin: 2rem;
+  width: 25rem;
+  min-height: 25rem;
+  border-radius: 1rem;
+  box-shadow: 2px 1px 15px -1px #000000;
+}
+
+.target img {
+  align-self: center;
+  width: 100%;
+  filter: grayscale(1);
+  transition-property: filter;
+  transition-duration: 1s;
+}
+
+.target img:hover {
+  filter: grayscale(0);
+  transition-property: filter;
+  transition-duration: 1s;
+}
+
+.target {
+  transform: scale(1);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.target:hover {
+  transform: scale(1.1);
+  transition-property: transform;
+  transition-duration: 1s;
+}

@@ -1,0 +1,70 @@
+[
+  { 
+    "id": 1,
+    "name": "Aloe Vera",
+    "img": "https://d2ye0ltusw47tz.cloudfront.net/361397-thickbox_default/figura-funko-pop-marvel-fantastic-four-invisible-girl.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Crassula Ovata",
+    "img": "https://media.aws.alkosto.com/media/catalog/product/cache/6/image/69ace863370f34bdf190e4e164b6e123/i/m/img2_1_6.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sedum Morganianum",
+		"img": "https://media.gamestop.com/i/gamestop/11181690/Funko-POP-Marvel-Thor-Love-and-Thunder-3.95-in-Vinyl-Bobblehead"
+  },
+  {
+    "id": 4, 
+    "name": "Suculenta Haworthia", 
+    "img": "https://doto.vtexassets.com/arquivos/ids/208554-800-auto?v=637911004513570000&width=800&height=auto&aspect=true"
+    
+  },
+  {
+     "id": 5,
+     "name": "Sempervivum 'Green Wheel",
+     "img": "https://images-na.ssl-images-amazon.com/images/I/41o1H8FqHrL._SX500_SY500_CR,0,0,500,500_.jpg"
+  },
+  {
+     "id": 6,
+     "name": "Sedum Morganianum",
+     "img": "https://static.fnac-static.com/multimedia/Images/ES/NR/5a/74/77/7828570/1545-1.jpg"
+  
+  },
+  {
+     "id": 7,
+     "name": "Kalanchoe Tomentosa",
+     "img": "https://static.fnac-static.com/multimedia/Images/ES/NR/b7/39/74/7616951/1545-1.jpg"
+  
+  },
+  {
+    "id": 8,
+    "name": "Graptopetalum Paraguayense",
+    "img": "https://i5.walmartimages.com/asr/00ed785c-d650-4308-9548-a389732ee4f2.3100e0510c810b6de93cd2371cb8431a.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+ 
+  },
+  {
+    "id": 9,
+    "name": "Haworthia Attenuata",
+    "img": "https://static.fnac-static.com/multimedia/Images/ES/NR/ab/39/74/7616939/1545-1.jpg"
+	},
+  {
+    "id": 10,
+    "name": "Crassula Tetragona",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.MYoevBFm7VPFnlvRIMQfbQHaHa&pid=Api&P=0&h=180"
+  },
+  {
+     "id": 11,
+    "name": "Echeveria 'Perle von Nürnberg",
+    "img": "https://i5.walmartimages.com/asr/59c6fbd6-f671-4713-991a-8c830aaf9367_1.c5cd977e5aebda5116e4a6eb873a3836.png"
+   
+    
+    },
+    {
+      "id": 12,
+      "name": "Euphorbia Tirucalli",
+      "img": "https://static.fnac-static.com/multimedia/Images/ES/NR/ec/79/77/7829996/1545-1.jpg"
+      
+      }
+
+		]

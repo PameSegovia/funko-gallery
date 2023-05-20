@@ -1,0 +1,48 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 3rem;
+}
+
+.fixed {
+  position: fixed;
+  bottom: 5rem;
+  right: 0;
+}
+.fixed img {
+  height: 8rem;
+}
+
+
+
+/* Media queries */
+@media (max-width: 768px) {
+  /* Estilos para pantallas de hasta 768px de ancho */
+  .main {
+    justify-content: flex-start;
+    margin-bottom: 2rem;
+  }
+  
+  .fixed {
+    position: static;
+    margin-top: 1rem;
+  }
+  
+  .fixed img {
+    height: 6rem;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Estilos para pantallas de hasta 480px de ancho */
+  .main {
+    justify-content: flex-start;
+    margin-bottom: 1rem;
+  }
+  
+  .fixed {
+    display: none;
+  }
+}

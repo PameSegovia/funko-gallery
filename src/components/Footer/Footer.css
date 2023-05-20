@@ -1,0 +1,24 @@
+
+
+.footer-content {
+	color: #000;
+  font-family: Helvetica, Arial, sans-serif;
+	background: linear-gradient(to right, #ce5937 0%, #a115a4 50%, #9c17c5 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.footer-content p {
+	font-size: 1rem;
+  margin-top: 10px; /* Ajusta este valor según sea necesario */
+  margin-bottom: 10px; /* Ajusta este valor según sea necesario */
+}
+
+.footer-content .btns {
+  display: flex;
+  gap: 10px; /* Ajusta este valor según sea necesario */
+  justify-content: center;
+}
