@@ -1,7 +1,7 @@
 
 import "./Footer.css"
-import { AiFillGithub } from 'react-icons/ai';
-import { FaLinkedin } from 'react-icons/fa';
+import { AiFillGithub, FaLinkedin } from 'react-icons/ai';
+
 
 export const Footer = () => {
 	return (
@@ -16,18 +16,7 @@ export const Footer = () => {
 				<a href="https://www.linkedin.com/in/pame-segovia/">
 					<FaLinkedin />
 				</a>
-
-
-
-
 			</div>
-
-
-
-
-
-
-
 		</div>
 
 	)
