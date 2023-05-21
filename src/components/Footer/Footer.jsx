@@ -1,6 +1,10 @@
 
 import "./Footer.css"
-import { AiFillGithub, FaLinkedin } from 'react-icons/ai';
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
+
+import { faGithub } from '@fortawesome/free-brands-svg-icons';
 
 
 export const Footer = () => {
@@ -9,12 +13,11 @@ export const Footer = () => {
 		<div className="footer-content">
 			<p>Pamela Segovia</p>
 			<div className="btns">
-
 				<a href="https://github.com/PameSegovia">
-					<AiFillGithub />
+					<FontAwesomeIcon icon={faGithub} />
 				</a>
 				<a href="https://www.linkedin.com/in/pame-segovia/">
-					<FaLinkedin />
+					<FontAwesomeIcon icon={faLinkedin} />
 				</a>
 			</div>
 		</div>

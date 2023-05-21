@@ -21,7 +21,7 @@
 @media (max-width: 768px) {
   /* Estilos para pantallas de hasta 768px de ancho */
   .main {
-    justify-content: flex-start;
+    justify-content: center;
     margin-bottom: 2rem;
   }
   

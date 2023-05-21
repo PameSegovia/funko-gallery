@@ -19,6 +19,7 @@
 
 .footer-content .btns {
   display: flex;
-  gap: 10px; /* Ajusta este valor según sea necesario */
+  gap: 5px; /* Ajusta este valor según sea necesario */
   justify-content: center;
+  margin-bottom: 10px;
 }
